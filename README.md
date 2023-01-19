@@ -28,6 +28,7 @@ Master's Degree in Business Analytics from the Higher School of Economics.
 
 ## Relevant Courses
 *  Analytical tools 
+*  Digital product development
 *  Statistical analysis methods 
 *  Practical machine learning methods for working with data 
 *  Data analysis for optimizing marketing expenses 
