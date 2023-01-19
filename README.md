@@ -1,9 +1,5 @@
 # Hi, I'm Lera 👋
 
-
-    💻 Business Analyst with more than 2 years of commertial experience in Russian IT company
-    👨🏻‍🎓 Master's Degree in Business Analytics from the Higher School of Economics
-    🧠 Proficient in time management
     
 <p align='center'>
    📫 How to reach me: <a href='mailto:vrkabaloeva@gmail.com'>vrkabaloeva@gmail.com</a>
@@ -15,12 +11,10 @@
   </p>
 </p>
 
-
+    
     💻 Business Analyst with more than 2 years of commertial experience in Russian IT company
     👨🏻‍🎓 Master's Degree in Business Analytics from the Higher School of Economics
     🧠 Proficient in time management
-  
-    
 
 
 ## 🛠 Technical Stack
