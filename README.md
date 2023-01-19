@@ -19,9 +19,9 @@
 
 
 ## 🛠 Technical Stack
-*   MySQL, PostgreSQL
-*   R, Stata
 *   Python
+*   MySQL, PostgreSQL
+*   R
 *   Qlik Sense, SuperSet, PowerBI
 *   QGIS
 *   GitHub/GitLab
