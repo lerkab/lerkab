@@ -1,15 +1,14 @@
 # Hi, I'm Lera 👋
 
     
-<p align='center'>
    📫 How to reach me: <a href='mailto:vrkabaloeva@gmail.com'>vrkabaloeva@gmail.com</a>
      
-   <p align='center'>
+ 
    <a href="https://t.me/lerakabaloeva">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-  </p>
-</p>
+
+
 
     
     💻 Business Analyst with more than 2 years of commertial experience in Russian IT company
