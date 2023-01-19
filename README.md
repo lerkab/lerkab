@@ -22,7 +22,7 @@
 *   Python
 *   MySQL, PostgreSQL
 *   R
-*   Qlik Sense, SuperSet, PowerBI
+*   Qlik Sense, Superset, PowerBI
 *   QGIS
 *   GitHub/GitLab
 
