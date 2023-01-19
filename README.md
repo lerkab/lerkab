@@ -2,13 +2,6 @@
 Business Analyst with more than 2 years of commertial experience in Russian IT company.  
 Master's Degree in Business Analytics from the Higher School of Economics.
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=lerkab&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=lerkab&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/lerkab/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerkab&layout=compact"/></a>
-</p>
 
 <p align='center'>
    <a href="https://t.me/lerakabaloeva">
