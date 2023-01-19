@@ -2,7 +2,19 @@
 Business Analyst with more than 2 years of commertial experience in Russian IT company.  
 Master's Degree in Business Analytics from the Higher School of Economics.
 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+</p>
 
+
+   <a href="https://t.me/lerakabaloeva">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+  
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:vrkabaloeva@gmail.com'>vrkabaloeva@gmail.com</a>
