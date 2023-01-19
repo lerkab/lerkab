@@ -10,11 +10,11 @@ Master's Degree in Business Analytics from the Higher School of Economics.
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
 </p>
 
-
+<p align='center'>
    <a href="https://t.me/lerakabaloeva">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-  
+  </p>
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:vrkabaloeva@gmail.com'>vrkabaloeva@gmail.com</a>
