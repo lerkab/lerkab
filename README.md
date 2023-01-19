@@ -2,11 +2,14 @@
 
     
    📫 How to reach me: <a href='mailto:vrkabaloeva@gmail.com'>vrkabaloeva@gmail.com</a>
-     
+       
+       
+       
  
    <a href="https://t.me/lerakabaloeva">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+
 
 
 
