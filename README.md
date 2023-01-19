@@ -1,5 +1,6 @@
 # Hi, I'm Lera 👋
 Data Analyst with more than 2 years of commertial experience in IT company.
+Master's Degree in Business Analytics from the Higher School of Economics.
 
 
 
