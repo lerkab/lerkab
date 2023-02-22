@@ -14,7 +14,7 @@
 
     
     💻 Business Analyst with more than 2 years of commertial experience in Russian IT company
-    👨🏻‍🎓 Graduate of the Master's degree program of the Higher School of Economics in Business Analytics
+    👨🏻‍🎓 Master of the Higher School of Economics in Business Analytics
     🧠 Proficient in time management
 
 
